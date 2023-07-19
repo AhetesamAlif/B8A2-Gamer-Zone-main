@@ -17,7 +17,7 @@
 }
 
 .logo img {
-    width: 30%;
+    /* width: 30%; */
 }
 
 .menu {
@@ -371,4 +371,30 @@ ul li a {
 
 .games-option {
     padding: 130px 240px;
+}
+
+/* footer styles */
+
+footer {
+    background: #0B0223;
+    text-align: center;
+    padding: 120px 0px;
+
+}
+
+.bg-white {
+    color: white;
+    width: ;
+}
+
+.features-container {
+    display: flex;
+    justify-content: center;
+    margin: 66px 0px;
+}
+
+.features li a {
+    color: #FFF;
+    font-size: 1.125rem;
+    font-weight: 400;
 }
